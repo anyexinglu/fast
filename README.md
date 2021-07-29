@@ -4,4 +4,10 @@ mini vite
 
 - [x] init with koa
 - [x] enable static html and ts
-- [ ] enable react
+- [x] enable react
+- [ ] hmr (base on createWebSocketServer)，server（nodemon）
+
+maybe
+
+- [ ] css
+- [ ] renderToStream
